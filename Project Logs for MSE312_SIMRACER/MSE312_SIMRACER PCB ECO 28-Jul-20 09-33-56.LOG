@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=CURRENT_SENSOR Pin=U4-2
+Added Pin To Net: NetName=MOTOR_OUT2 Pin=U4-7
+Added Pin To Net: NetName=CURRENT_SENSOR Pin=U4-10
+Change Net Name : Old Net Name=MOTOR_OUT2 New Net Name=L298N_OUT2
